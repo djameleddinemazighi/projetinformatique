@@ -1,0 +1,13 @@
+avant initialisation 
+- supprimer le ficher config/config.json
+- supprimer package-lock.json
+
+initialisation :
+- installer le CLI get sequelizer globalement 
+- ecrit ces commande :
+  - npm install
+  - sequilize init 
+  - sequilize db:migrate 
+
+
+- modifier le ficher config/config.json avec les parametres de votre BDD
